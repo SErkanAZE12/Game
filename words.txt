@@ -1,0 +1,12 @@
+level1_words = ['pet', 'top', 'toe']  # Using 'p', 't', 'o', 'e'
+    level2_words = ['set', 'bed', 'bet']  # Using 's', 'e', 't', 'b'
+    level3_words = ['dog', 'god', 'dos']  # Using 'd', 'o', 'g'
+    level4_words = ['sun', 'nut', 'tun']  # Using 's', 'u', 'n', 't'
+
+    # Level 5 to Level 10: 2 words with 3 letters and 2 words with 4 letters
+    level5_words = ['dog', 'god', 'good', 'goad']  # Using 'd', 'o', 'g'
+    level6_words = ['bes', 'set', 'best', 'test']  # Using 'b', 'e', 's', 't'
+    level7_words = ['sun', 'nut', 'tuns', 'nuts']  # Using 's', 'u', 'n', 't'
+    level8_words = ['top', 'pot', 'stop', 'opts']  # Using 't', 'o', 'p', 's'
+    level9_words = ['tap', 'pas', 'pats', 'past']  # Using 'p', 'a', 't', 's'
+    level10_words = ['sit', 'its', 'leap', 'pale']
